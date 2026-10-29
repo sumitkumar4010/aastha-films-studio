@@ -341,7 +341,7 @@ function Home() {
 
             <div className="relative overflow-hidden rounded-3xl border-2 border-[#F5B53D] bg-[#061733] p-2 shadow-2xl">
               <img
-                src="/public/poster.jpg"
+                src="/poster.jpg"
                 alt="Aastha Films Studio Banner"
                 className="w-full object-contain rounded-2xl"
               />
